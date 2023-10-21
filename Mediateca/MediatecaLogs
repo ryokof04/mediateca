@@ -1,0 +1,1168 @@
+2022-10-30 13:12:42 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-10-30 13:12:54 ERROR FormLibros:413 - Se ha presionado el boton Editar sin haber seleccionado un registro!
+2022-10-30 13:13:00 ERROR FormLibros:380 - Se ha presionado el boton Eliminar sin haber seleccionado un registro!
+2022-11-02 12:22:00 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 12:27:53 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:28:09 INFO  FormListLibros:160 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:28:13 INFO  FormListLibros:160 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:29:00 INFO  FormListLibros:160 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:07 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:33:10 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:10 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:10 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:11 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:11 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:11 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:11 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:12 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:12 INFO  FormListLibros:175 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:33:55 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:34:31 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 12:34:38 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:35:23 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:35:25 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:35:25 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:35:25 INFO  FormListLibros:186 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:35:42 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:37:27 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:38:35 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:39:51 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:51:07 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 12:51:13 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:51:14 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:52:02 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:52:03 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:52:03 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:52:03 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:52:03 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 12:52:34 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 13:01:10 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 13:01:16 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:03:59 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 13:04:05 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:48:23 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 13:48:28 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:10 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 13:49:12 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:13 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:13 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:13 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:15 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:15 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:17 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:19 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:19 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:21 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:22 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:24 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:24 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:30 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:30 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:31 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:32 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:33 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:34 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:36 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:36 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:37 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:37 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:38 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:38 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:38 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:38 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 13:49:38 INFO  FormListLibros:185 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:15:47 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 14:16:01 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-02 14:16:06 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:06 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:06 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:06 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:07 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:07 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:07 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:07 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:08 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:38 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-02 14:16:43 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:44 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:44 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:44 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:44 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:16:44 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:19:27 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-02 14:19:29 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:19:30 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:19:30 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:19:30 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:19:30 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:19:30 INFO  FormListRevistas:171 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:20:16 INFO  FormListLibros:25 - Primera lectura de datos al grid
+2022-11-02 14:21:15 INFO  FormListLibros:25 - Primera lectura de datos al grid
+2022-11-02 14:21:18 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:21 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:22 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:22 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:22 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:23 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:23 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:24 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:24 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:30 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:31 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:32 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:33 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:33 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:34 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:35 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:35 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:21:36 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:22:41 INFO  FormListLibros:25 - Primera lectura de datos al grid
+2022-11-02 14:22:43 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:22:43 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:22:43 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:22:43 INFO  FormListLibros:166 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:22:53 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 14:23:42 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 14:23:44 INFO  FormListDVD:172 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:23:44 INFO  FormListDVD:172 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:23:44 INFO  FormListDVD:172 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:24:52 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 14:24:54 INFO  FormListDVD:172 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:24:54 INFO  FormListDVD:172 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:24:54 INFO  FormListDVD:172 - Lectura de datos al grid con datos personalizados
+2022-11-02 14:28:38 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 14:30:23 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 14:32:26 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 14:35:27 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 14:35:29 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 14:42:19 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 14:42:24 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 14:42:37 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 14:43:14 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 14:43:17 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 14:43:20 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-02 14:43:23 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 14:44:06 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 14:44:10 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-02 14:44:13 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 14:44:17 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 18:55:18 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 18:55:39 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:40 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:40 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:40 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:40 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:40 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:41 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:41 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:55:41 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:01 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:02 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:02 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:02 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:02 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:02 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:02 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:03 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:23 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:26 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:26 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:26 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:26 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:26 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:26 INFO  FormListLibros:176 - Lectura de datos al grid con datos personalizados
+2022-11-02 18:56:40 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 18:56:50 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 18:57:00 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 18:57:05 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 18:57:11 INFO  FormLibros:404 - Datos seleccionado: LIB00010
+2022-11-02 18:57:12 INFO  FormLibros:404 - Datos seleccionado: LIB00011
+2022-11-02 18:57:18 INFO  FormLibros:477 - Registro actualizado correctamente
+2022-11-02 18:57:40 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 18:58:04 INFO  FormLibros:404 - Datos seleccionado: LIB00007
+2022-11-02 18:58:04 INFO  FormLibros:404 - Datos seleccionado: LIB00008
+2022-11-02 18:58:05 INFO  FormLibros:404 - Datos seleccionado: LIB00009
+2022-11-02 18:58:05 INFO  FormLibros:404 - Datos seleccionado: LIB00010
+2022-11-02 18:59:18 INFO  FormLibros:378 - Datos guardados exitosamente!
+2022-11-02 18:59:20 INFO  FormLibros:404 - Datos seleccionado: LIB00014
+2022-11-02 18:59:30 INFO  FormLibros:477 - Registro actualizado correctamente
+2022-11-02 18:59:32 INFO  FormLibros:404 - Datos seleccionado: LIB00014
+2022-11-02 18:59:35 INFO  FormLibros:404 - Datos seleccionado: LIB00008
+2022-11-02 18:59:42 INFO  FormLibros:424 - Registro a eliminar: 8
+2022-11-02 18:59:42 INFO  FormLibros:428 - Eliminacion correcta del registro: 8
+2022-11-02 18:59:45 INFO  FormLibros:404 - Datos seleccionado: LIB00009
+2022-11-02 18:59:51 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 19:00:11 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 19:23:44 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:23:48 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 19:23:52 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 19:24:03 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-02 19:24:12 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 19:24:16 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:24:21 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 19:28:37 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:28:45 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:28:49 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 19:28:55 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 19:29:00 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-02 19:29:04 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 19:29:07 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 19:29:13 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-02 19:29:18 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 19:29:23 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 19:30:32 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:30:36 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 19:30:39 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 19:30:43 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-02 19:30:46 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 19:30:49 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-02 19:30:52 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 19:30:55 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 19:31:48 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 19:33:04 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:33:12 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 19:36:08 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:41:01 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 19:42:19 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 19:59:56 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:00:30 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:01:16 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:01:42 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:02:48 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:03:01 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:03:06 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:03:08 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:03:08 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:03:08 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:03:09 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:04:35 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:05:05 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:07:38 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:08:35 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:10:37 INFO  FormLibros:370 - Datos seleccionado: LIB00007
+2022-11-02 20:10:38 INFO  FormLibros:370 - Datos seleccionado: LIB00009
+2022-11-02 20:10:39 INFO  FormLibros:370 - Datos seleccionado: LIB00010
+2022-11-02 20:10:39 INFO  FormLibros:370 - Datos seleccionado: LIB00014
+2022-11-02 20:10:40 INFO  FormLibros:370 - Datos seleccionado: LIB00011
+2022-11-02 20:10:41 INFO  FormLibros:370 - Datos seleccionado: LIB00010
+2022-11-02 20:10:41 INFO  FormLibros:370 - Datos seleccionado: LIB00009
+2022-11-02 20:10:42 INFO  FormLibros:370 - Datos seleccionado: LIB00007
+2022-11-02 20:11:03 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:12:04 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:12:14 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:14:33 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:15:05 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:17:14 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:18:14 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 20:21:19 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-02 20:21:53 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 20:22:02 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-02 20:22:13 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 20:26:15 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:28:34 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:32:00 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:32:08 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:33:04 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:33:57 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:35:25 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:48:52 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:49:13 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 20:49:35 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-02 20:49:46 ERROR FormCds:391 - No se ha encontrado ningun registro con el Id LIB00001
+2022-11-02 20:50:05 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-02 20:50:16 ERROR FormDVD:400 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-02 20:51:15 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:51:18 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:19 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:19 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:19 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:20 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:20 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:20 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:20 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:21 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:21 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:27 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:27 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:27 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:27 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:27 INFO  FormListLibros:156 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:36 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-02 20:51:38 INFO  FormListDVD:164 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:38 INFO  FormListDVD:164 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:38 INFO  FormListDVD:164 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:41 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-02 20:51:43 INFO  FormListLibros:163 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:43 INFO  FormListLibros:163 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:43 INFO  FormListLibros:163 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:45 INFO  FormListLibros:163 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:45 INFO  FormListLibros:163 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:45 INFO  FormListLibros:163 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:51:45 INFO  FormListLibros:163 - Lectura de datos al grid con datos personalizados
+2022-11-02 20:54:39 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:54:50 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:55:46 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-02 20:57:47 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:58:20 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 20:59:34 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:01:12 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:01:26 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:02:10 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:02:54 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:03:42 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:03:44 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-02 21:04:27 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:04:28 INFO  FormLibros:366 - Registro seleccionado: LIB00014
+2022-11-02 21:04:40 INFO  FormLibros:340 - Datos guardados exitosamente!
+2022-11-02 21:04:54 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:04:55 ERROR FormLibros:413 - Se ha presionado el boton Editar sin haber seleccionado un registro!
+2022-11-02 21:05:29 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:05:30 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:07:14 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:07:15 INFO  FormLibros:366 - Registro seleccionado: LIB00014
+2022-11-02 21:07:15 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:07:16 INFO  FormLibros:366 - Registro seleccionado: LIB00010
+2022-11-02 21:07:16 INFO  FormLibros:366 - Registro seleccionado: LIB00007
+2022-11-02 21:07:17 INFO  FormLibros:366 - Registro seleccionado: LIB00014
+2022-11-02 21:07:17 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-02 21:07:17 INFO  FormLibros:366 - Registro seleccionado: LIB00010
+2022-11-02 21:07:18 INFO  FormLibros:366 - Registro seleccionado: LIB00009
+2022-11-02 21:07:19 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-02 21:08:34 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-02 21:08:41 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:08:42 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:08:43 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-02 21:08:43 INFO  FormLibros:366 - Registro seleccionado: LIB00009
+2022-11-02 21:08:45 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:09:39 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:09:39 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:10:46 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:10:48 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:11:30 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:11:31 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-02 21:11:32 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:24:31 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:24:33 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:24:39 INFO  FormLibros:366 - Registro seleccionado: LIB00014
+2022-11-02 21:24:42 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-02 21:24:42 INFO  FormLibros:366 - Registro seleccionado: LIB00014
+2022-11-02 21:24:43 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:27:07 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:27:10 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-02 21:27:11 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:28:33 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:28:34 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:30:55 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:30:57 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:31:02 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-02 21:31:11 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:34:48 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-02 21:34:51 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:34:56 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-02 21:34:59 INFO  FormLibros:366 - Registro seleccionado: LIB00015
+2022-11-02 21:35:04 INFO  FormLibros:386 - Registro a eliminar: LIB00015
+2022-11-02 21:35:04 INFO  FormLibros:390 - Eliminacion correcta del registro: LIB00015
+2022-11-03 15:34:13 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:34:16 INFO  FormLibros:366 - Registro seleccionado: LIB00011
+2022-11-03 15:34:18 INFO  FormLibros:386 - Registro a eliminar: LIB00011
+2022-11-03 15:34:18 INFO  FormLibros:390 - Eliminacion correcta del registro: LIB00011
+2022-11-03 15:34:20 INFO  FormLibros:366 - Registro seleccionado: LIB00014
+2022-11-03 15:34:21 INFO  FormLibros:386 - Registro a eliminar: LIB00014
+2022-11-03 15:34:21 INFO  FormLibros:390 - Eliminacion correcta del registro: LIB00014
+2022-11-03 15:34:22 INFO  FormLibros:366 - Registro seleccionado: LIB00010
+2022-11-03 15:34:24 INFO  FormLibros:386 - Registro a eliminar: LIB00010
+2022-11-03 15:34:24 INFO  FormLibros:390 - Eliminacion correcta del registro: LIB00010
+2022-11-03 15:34:26 INFO  FormLibros:366 - Registro seleccionado: LIB00009
+2022-11-03 15:34:27 INFO  FormLibros:386 - Registro a eliminar: LIB00009
+2022-11-03 15:34:28 INFO  FormLibros:390 - Eliminacion correcta del registro: LIB00009
+2022-11-03 15:34:29 INFO  FormLibros:366 - Registro seleccionado: LIB00007
+2022-11-03 15:34:31 INFO  FormLibros:386 - Registro a eliminar: LIB00007
+2022-11-03 15:34:31 INFO  FormLibros:390 - Eliminacion correcta del registro: LIB00007
+2022-11-03 15:35:07 ERROR FormLibros:347 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 15:35:46 ERROR FormLibros:347 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 15:36:03 INFO  FormLibros:340 - Datos guardados exitosamente!
+2022-11-03 15:36:09 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:36:21 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-03 15:36:29 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:38:28 ERROR FormLibros:445 - No se ha encotrado ningun registro con el Id titulo1
+2022-11-03 15:38:49 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:38:50 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:38:53 ERROR FormLibros:445 - No se ha encotrado ningun registro con el Id titulo1
+2022-11-03 15:39:24 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:39:25 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:39:28 ERROR FormLibros:445 - No se ha encotrado ningun registro con el Id titulo1
+2022-11-03 15:45:21 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:45:22 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:45:40 ERROR FormLibros:347 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 15:45:47 INFO  FormLibros:340 - Datos guardados exitosamente!
+2022-11-03 15:45:50 INFO  FormLibros:366 - Registro seleccionado: LIB00017
+2022-11-03 15:45:52 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:45:58 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-03 15:46:51 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:46:52 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:46:56 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-03 15:46:58 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:49:00 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:49:01 INFO  FormLibros:366 - Registro seleccionado: LIB00001
+2022-11-03 15:49:07 INFO  FormLibros:386 - Registro a eliminar: LIB00001
+2022-11-03 15:49:07 INFO  FormLibros:390 - Eliminacion correcta del registro: LIB00001
+2022-11-03 15:49:23 INFO  FormLibros:366 - Registro seleccionado: LIB00017
+2022-11-03 15:49:54 INFO  FormLibros:340 - Datos guardados exitosamente!
+2022-11-03 15:50:00 INFO  FormLibros:366 - Registro seleccionado: LIB00018
+2022-11-03 15:50:03 INFO  FormLibros:366 - Registro seleccionado: LIB00017
+2022-11-03 15:50:18 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:50:25 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:50:26 INFO  FormLibros:366 - Registro seleccionado: LIB00018
+2022-11-03 15:50:29 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-03 15:50:32 INFO  FormLibros:366 - Registro seleccionado: LIB00017
+2022-11-03 15:50:36 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:52:42 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:52:43 INFO  FormLibros:366 - Registro seleccionado: LIB00018
+2022-11-03 15:52:45 INFO  FormLibros:366 - Registro seleccionado: LIB00017
+2022-11-03 15:52:50 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:52:55 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:52:56 INFO  FormLibros:366 - Registro seleccionado: LIB00018
+2022-11-03 15:52:57 INFO  FormLibros:366 - Registro seleccionado: LIB00017
+2022-11-03 15:53:03 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-03 15:53:07 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:55:05 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:55:17 INFO  FormLibros:366 - Registro seleccionado: LIB00018
+2022-11-03 15:55:22 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:55:26 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 15:55:27 INFO  FormLibros:366 - Registro seleccionado: LIB00018
+2022-11-03 15:55:30 INFO  FormLibros:439 - Registro actualizado correctamente
+2022-11-03 15:55:33 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:55:39 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:44 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:56:47 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:47 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:48 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:48 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:49 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:51 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:57 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:57 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:57 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:58 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:58 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:56:58 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:19 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 15:58:21 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:21 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:22 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:23 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:23 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:24 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:25 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:25 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:25 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:53 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:56 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:57 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:58 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:58:58 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:02 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:03 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:04 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:04 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:04 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:05 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:06 INFO  FormListLibros:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 15:59:26 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 16:00:19 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:00:41 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 16:01:07 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 16:01:08 INFO  FormLibros:352 - Registro seleccionado: LIB00018
+2022-11-03 16:01:10 INFO  FormLibros:352 - Registro seleccionado: LIB00017
+2022-11-03 16:01:11 INFO  FormLibros:352 - Registro seleccionado: LIB00018
+2022-11-03 16:02:32 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:02:34 INFO  FormRevistas:463 - Datos seleccionado: REV00008
+2022-11-03 16:02:35 INFO  FormRevistas:463 - Datos seleccionado: REV00006
+2022-11-03 16:02:35 INFO  FormRevistas:463 - Datos seleccionado: REV00004
+2022-11-03 16:02:36 INFO  FormRevistas:463 - Datos seleccionado: REV00003
+2022-11-03 16:06:41 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:06:42 INFO  FormRevistas:463 - Datos seleccionado: REV00008
+2022-11-03 16:06:42 INFO  FormRevistas:463 - Datos seleccionado: REV00006
+2022-11-03 16:06:43 INFO  FormRevistas:463 - Datos seleccionado: REV00004
+2022-11-03 16:06:44 INFO  FormRevistas:463 - Datos seleccionado: REV00003
+2022-11-03 16:09:47 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:09:48 INFO  FormRevistas:463 - Datos seleccionado: REV00007
+2022-11-03 16:09:49 INFO  FormRevistas:463 - Datos seleccionado: REV00008
+2022-11-03 16:09:50 INFO  FormRevistas:435 - Registro a eliminar: REV00008
+2022-11-03 16:09:50 INFO  FormRevistas:439 - Eliminacion correcta del registro: REV00008
+2022-11-03 16:09:52 INFO  FormRevistas:463 - Datos seleccionado: REV00007
+2022-11-03 16:09:53 INFO  FormRevistas:435 - Registro a eliminar: REV00007
+2022-11-03 16:09:53 INFO  FormRevistas:439 - Eliminacion correcta del registro: REV00007
+2022-11-03 16:09:54 INFO  FormRevistas:463 - Datos seleccionado: REV00006
+2022-11-03 16:09:56 INFO  FormRevistas:435 - Registro a eliminar: REV00006
+2022-11-03 16:09:56 INFO  FormRevistas:439 - Eliminacion correcta del registro: REV00006
+2022-11-03 16:09:59 INFO  FormRevistas:463 - Datos seleccionado: REV00005
+2022-11-03 16:10:01 INFO  FormRevistas:435 - Registro a eliminar: REV00005
+2022-11-03 16:10:01 INFO  FormRevistas:439 - Eliminacion correcta del registro: REV00005
+2022-11-03 16:10:03 INFO  FormRevistas:463 - Datos seleccionado: REV00004
+2022-11-03 16:10:04 INFO  FormRevistas:435 - Registro a eliminar: REV00004
+2022-11-03 16:10:04 INFO  FormRevistas:439 - Eliminacion correcta del registro: REV00004
+2022-11-03 16:10:06 INFO  FormRevistas:463 - Datos seleccionado: REV00003
+2022-11-03 16:10:08 INFO  FormRevistas:435 - Registro a eliminar: REV00003
+2022-11-03 16:10:08 INFO  FormRevistas:439 - Eliminacion correcta del registro: REV00003
+2022-11-03 16:10:25 ERROR FormRevistas:407 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 16:10:37 ERROR FormRevistas:407 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 16:10:45 ERROR FormRevistas:407 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 16:10:57 INFO  FormRevistas:400 - Datos guardados correctamente!
+2022-11-03 16:11:00 INFO  FormRevistas:463 - Datos seleccionado: REV00001
+2022-11-03 16:15:07 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:17:22 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:17:23 INFO  FormRevistas:457 - Datos seleccionado: REV00001
+2022-11-03 16:17:26 INFO  FormRevistas:429 - Registro a eliminar: REV00001
+2022-11-03 16:17:26 INFO  FormRevistas:433 - Eliminacion correcta del registro: REV00001
+2022-11-03 16:18:02 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:18:20 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:18:44 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:19:17 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:19:35 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:19:56 ERROR FormRevistas:400 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 16:24:22 INFO  FormRevistas:30 - Primera lectura de datos al grid
+2022-11-03 16:24:58 ERROR FormRevistas:400 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 16:33:57 INFO  FormRevistas:34 - Primera lectura de datos al grid
+2022-11-03 16:34:24 INFO  FormRevistas:416 - Datos guardados correctamente!
+2022-11-03 17:08:12 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:11:28 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:11:34 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:12:35 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:12:40 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:13:50 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:13:53 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:13:55 INFO  FormRevistas:450 - Registro a eliminar: REV00001
+2022-11-03 17:13:55 INFO  FormRevistas:454 - Eliminacion correcta del registro: REV00001
+2022-11-03 17:15:49 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:16:25 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:16:35 INFO  FormRevistas:415 - Datos guardados correctamente!
+2022-11-03 17:16:47 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:17:26 INFO  FormRevistas:450 - Registro a eliminar: REV00001
+2022-11-03 17:17:26 INFO  FormRevistas:454 - Eliminacion correcta del registro: REV00001
+2022-11-03 17:17:28 ERROR FormRevistas:433 - Se ha presionado el boton Editar sin haber seleccionado un registro!
+2022-11-03 17:17:41 INFO  FormRevistas:415 - Datos guardados correctamente!
+2022-11-03 17:17:43 ERROR FormRevistas:433 - Se ha presionado el boton Editar sin haber seleccionado un registro!
+2022-11-03 17:17:45 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:18:33 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:18:34 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:19:36 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:19:38 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:21:08 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:21:09 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:21:12 INFO  FormRevistas:379 - Registro actualizado correctamente
+2022-11-03 17:21:16 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:21:22 INFO  FormRevistas:379 - Registro actualizado correctamente
+2022-11-03 17:21:24 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:21:51 INFO  FormRevistas:415 - Datos guardados correctamente!
+2022-11-03 17:21:53 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:21:59 INFO  FormRevistas:379 - Registro actualizado correctamente
+2022-11-03 17:22:04 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:22:13 INFO  FormRevistas:379 - Registro actualizado correctamente
+2022-11-03 17:22:15 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:22:22 INFO  FormRevistas:379 - Registro actualizado correctamente
+2022-11-03 17:22:29 INFO  FormRevistas:478 - Datos seleccionado: REV00001
+2022-11-03 17:22:36 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 17:22:41 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:22:41 INFO  FormRevistas:478 - Datos seleccionado: REV00013
+2022-11-03 17:22:45 INFO  FormRevistas:379 - Registro actualizado correctamente
+2022-11-03 17:22:50 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 17:22:58 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:23:01 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 17:25:37 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 17:25:44 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 17:25:47 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:47 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:49 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:25:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:29:17 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:29:18 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:29:20 INFO  FormCds:322 - Registro a eliminar: LIB00001
+2022-11-03 17:29:20 INFO  FormCds:332 - No se ha encotrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:32:17 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:33:16 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:34:00 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:34:09 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:35:21 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:36:15 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:36:17 INFO  FormCds:398 - Datos seleccionado: LIB00004
+2022-11-03 17:36:18 INFO  FormCds:322 - Registro a eliminar: LIB00004
+2022-11-03 17:36:18 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00004
+2022-11-03 17:36:20 INFO  FormCds:398 - Datos seleccionado: LIB00003
+2022-11-03 17:36:21 INFO  FormCds:322 - Registro a eliminar: LIB00003
+2022-11-03 17:36:21 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00003
+2022-11-03 17:36:24 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:36:25 INFO  FormCds:322 - Registro a eliminar: LIB00001
+2022-11-03 17:36:25 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00001
+2022-11-03 17:36:44 INFO  FormCds:355 - Datos guardados correctamente!
+2022-11-03 17:36:48 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:36:53 ERROR FormCds:381 - No se ha encontrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:37:23 ERROR FormCds:381 - No se ha encontrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:38:20 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 17:38:23 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:38:24 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:39:16 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:39:16 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:39:20 ERROR FormCds:381 - No se ha encontrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:39:56 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:39:57 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:40:00 ERROR FormCds:381 - No se ha encontrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:40:08 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:40:10 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:40:14 ERROR FormCds:381 - No se ha encontrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:42:03 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:42:04 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:42:06 ERROR FormCds:381 - No se ha encontrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:42:12 ERROR FormCds:381 - No se ha encontrado ningun registro con el Correlativo LIB00001
+2022-11-03 17:42:43 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:42:44 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 17:42:47 INFO  FormCds:375 - Registro actualizado correctamente
+2022-11-03 17:42:54 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 17:42:59 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:43:10 INFO  FormCds:355 - Datos guardados correctamente!
+2022-11-03 17:43:12 INFO  FormCds:398 - Datos seleccionado: LIB00006
+2022-11-03 17:43:16 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 17:43:20 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:43:21 INFO  FormCds:398 - Datos seleccionado: LIB00006
+2022-11-03 17:43:24 INFO  FormCds:375 - Registro actualizado correctamente
+2022-11-03 17:43:27 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 17:46:03 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:46:06 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 17:46:11 INFO  FormListLibros:190 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:46:11 INFO  FormListLibros:190 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:46:12 INFO  FormListLibros:190 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:46:12 INFO  FormListLibros:190 - Lectura de datos al grid con datos personalizados
+2022-11-03 17:46:44 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 17:46:48 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:47:07 INFO  FormCds:355 - Datos guardados correctamente!
+2022-11-03 17:47:10 INFO  FormCds:398 - Datos seleccionado: LIB00007
+2022-11-03 17:47:16 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:47:21 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:47:33 INFO  FormCds:355 - Datos guardados correctamente!
+2022-11-03 17:48:21 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 17:48:35 INFO  FormCds:355 - Datos guardados correctamente!
+2022-11-03 17:48:38 INFO  FormCds:398 - Datos seleccionado: LIB00009
+2022-11-03 17:48:39 INFO  FormCds:398 - Datos seleccionado: LIB00007
+2022-11-03 17:48:42 INFO  FormCds:322 - Registro a eliminar: LIB00007
+2022-11-03 17:48:42 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00007
+2022-11-03 17:55:17 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 17:56:57 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 17:56:59 INFO  FormDVD:312 - Datos seleccionado: LIB00002
+2022-11-03 17:56:59 INFO  FormDVD:312 - Datos seleccionado: LIB00003
+2022-11-03 17:57:00 INFO  FormDVD:344 - Registro a eliminar: LIB00003
+2022-11-03 17:57:00 INFO  FormDVD:354 - No se ha encotrado ningun registro con el Correlativo LIB00003
+2022-11-03 17:57:38 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 17:57:39 INFO  FormDVD:312 - Datos seleccionado: LIB00003
+2022-11-03 17:57:40 INFO  FormDVD:344 - Registro a eliminar: LIB00003
+2022-11-03 17:57:40 INFO  FormDVD:354 - No se ha encotrado ningun registro con el Correlativo LIB00003
+2022-11-03 17:59:34 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 17:59:35 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 17:59:36 INFO  FormDVD:344 - Registro a eliminar: LIB00001
+2022-11-03 17:59:36 INFO  FormDVD:348 - Eliminacion correcta del registro: LIB00001
+2022-11-03 17:59:37 INFO  FormDVD:312 - Datos seleccionado: LIB00003
+2022-11-03 17:59:39 INFO  FormDVD:344 - Registro a eliminar: LIB00003
+2022-11-03 17:59:39 INFO  FormDVD:348 - Eliminacion correcta del registro: LIB00003
+2022-11-03 17:59:41 INFO  FormDVD:312 - Datos seleccionado: LIB00002
+2022-11-03 17:59:42 INFO  FormDVD:344 - Registro a eliminar: LIB00002
+2022-11-03 17:59:42 INFO  FormDVD:348 - Eliminacion correcta del registro: LIB00002
+2022-11-03 17:59:52 ERROR FormDVD:385 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 18:01:14 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:01:24 INFO  FormDVD:378 - Datos guardados correctamente!
+2022-11-03 18:01:27 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:01:31 ERROR FormDVD:296 - No se ha encotrado ningun registro con el Correlativo LIB00001
+2022-11-03 18:02:31 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:02:32 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:02:35 ERROR FormDVD:296 - No se ha encotrado ningun registro con el Correlativo LIB00001
+2022-11-03 18:03:07 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:03:08 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:03:11 ERROR FormDVD:296 - No se ha encotrado ningun registro con el Correlativo LIB00001
+2022-11-03 18:03:30 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:03:31 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:03:36 ERROR FormDVD:296 - No se ha encotrado ningun registro con el Correlativo LIB00001
+2022-11-03 18:03:56 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:03:57 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:04:00 ERROR FormDVD:296 - No se ha encotrado ningun registro con el Correlativo LIB00001
+2022-11-03 18:04:58 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:04:59 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:05:02 ERROR FormDVD:296 - No se ha encotrado ningun registro con el Correlativo LIB00001
+2022-11-03 18:06:59 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:07:00 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:07:02 INFO  FormDVD:290 - Registro actualizado correctamente
+2022-11-03 18:07:05 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:07:11 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:07:14 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:07:25 INFO  FormDVD:378 - Datos guardados correctamente!
+2022-11-03 18:07:30 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:07:33 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:07:33 INFO  FormDVD:312 - Datos seleccionado: LIB00005
+2022-11-03 18:07:41 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:07:45 INFO  FormDVD:290 - Registro actualizado correctamente
+2022-11-03 18:07:49 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:09:19 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:23 INFO  FormListDVD:180 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:09:26 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:09:30 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:09:30 INFO  FormDVD:312 - Datos seleccionado: LIB00005
+2022-11-03 18:09:31 INFO  FormDVD:344 - Registro a eliminar: LIB00005
+2022-11-03 18:09:31 INFO  FormDVD:348 - Eliminacion correcta del registro: LIB00005
+2022-11-03 18:09:33 INFO  FormDVD:312 - Datos seleccionado: LIB00001
+2022-11-03 18:09:35 INFO  FormDVD:344 - Registro a eliminar: LIB00001
+2022-11-03 18:09:35 INFO  FormDVD:348 - Eliminacion correcta del registro: LIB00001
+2022-11-03 18:10:21 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:10:22 INFO  FormLibros:351 - Registro seleccionado: LIB00018
+2022-11-03 18:10:24 INFO  FormLibros:371 - Registro a eliminar: LIB00018
+2022-11-03 18:10:24 INFO  FormLibros:375 - Eliminacion correcta del registro: LIB00018
+2022-11-03 18:10:25 INFO  FormLibros:351 - Registro seleccionado: LIB00017
+2022-11-03 18:10:27 INFO  FormLibros:371 - Registro a eliminar: LIB00017
+2022-11-03 18:10:27 INFO  FormLibros:375 - Eliminacion correcta del registro: LIB00017
+2022-11-03 18:10:30 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 18:10:31 INFO  FormRevistas:489 - Datos seleccionado: REV00013
+2022-11-03 18:10:32 INFO  FormRevistas:457 - Registro a eliminar: REV00013
+2022-11-03 18:10:32 INFO  FormRevistas:461 - Eliminacion correcta del registro: REV00013
+2022-11-03 18:10:34 INFO  FormRevistas:489 - Datos seleccionado: REV00001
+2022-11-03 18:10:35 INFO  FormRevistas:457 - Registro a eliminar: REV00001
+2022-11-03 18:10:35 INFO  FormRevistas:461 - Eliminacion correcta del registro: REV00001
+2022-11-03 18:10:39 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:10:40 INFO  FormCds:398 - Datos seleccionado: LIB00009
+2022-11-03 18:10:41 INFO  FormCds:322 - Registro a eliminar: LIB00009
+2022-11-03 18:10:41 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00009
+2022-11-03 18:10:43 INFO  FormCds:398 - Datos seleccionado: LIB00008
+2022-11-03 18:10:44 INFO  FormCds:322 - Registro a eliminar: LIB00008
+2022-11-03 18:10:44 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00008
+2022-11-03 18:10:45 ERROR FormCds:305 - Se ha presionado el boton Editar sin haber seleccionado un registro!
+2022-11-03 18:10:47 INFO  FormCds:398 - Datos seleccionado: LIB00006
+2022-11-03 18:10:52 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:10:53 INFO  FormCds:398 - Datos seleccionado: LIB00006
+2022-11-03 18:10:56 INFO  FormCds:375 - Registro actualizado correctamente
+2022-11-03 18:10:58 INFO  FormCds:398 - Datos seleccionado: LIB00006
+2022-11-03 18:11:00 INFO  FormCds:322 - Registro a eliminar: LIB00006
+2022-11-03 18:11:00 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00006
+2022-11-03 18:11:01 INFO  FormCds:398 - Datos seleccionado: LIB00001
+2022-11-03 18:11:03 INFO  FormCds:322 - Registro a eliminar: LIB00001
+2022-11-03 18:11:03 INFO  FormCds:326 - Eliminacion correcta del registro: LIB00001
+2022-11-03 18:11:06 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:16:54 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:17:01 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 18:17:06 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:17:12 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:17:17 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:18:05 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:18:08 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 18:18:11 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:18:28 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:18:34 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:18:37 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 18:18:41 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 18:22:40 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:22:44 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:23:23 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:23:37 ERROR FormLibros:332 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 18:23:42 INFO  FormLibros:325 - Datos guardados exitosamente!
+2022-11-03 18:23:49 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 18:24:01 INFO  FormRevistas:418 - Datos guardados correctamente!
+2022-11-03 18:24:07 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:24:18 INFO  FormCds:355 - Datos guardados correctamente!
+2022-11-03 18:24:24 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:24:33 INFO  FormDVD:377 - Datos guardados correctamente!
+2022-11-03 18:24:43 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:24:46 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:24:52 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 18:24:57 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 18:25:00 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:25:08 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:25:23 INFO  FormLibros:325 - Datos guardados exitosamente!
+2022-11-03 18:25:28 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 18:25:41 INFO  FormRevistas:418 - Datos guardados correctamente!
+2022-11-03 18:25:46 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:25:58 INFO  FormCds:355 - Datos guardados correctamente!
+2022-11-03 18:26:03 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:26:11 INFO  FormDVD:377 - Datos guardados correctamente!
+2022-11-03 18:26:15 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:26:17 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 18:26:20 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 18:26:24 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:26:28 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:26:29 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:33 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:35 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:36 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:36 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:36 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:39 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:39 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:44 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:45 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:46 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:47 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:48 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:48 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:48 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:26:49 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:27:34 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:27:36 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:27:38 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:27:39 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:27:39 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:27:40 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:27:41 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:11 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:29:12 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:12 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:16 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:16 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:16 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:17 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:17 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:17 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:17 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:19 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:19 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:19 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:19 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:20 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:21 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:21 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:21 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:23 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:23 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:23 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:25 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:25 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:25 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:26 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:26 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:26 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:46 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:29:48 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:49 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:29:53 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:02 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:02 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:05 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:05 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:05 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:06 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:06 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:11 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:13 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:13 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:14 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:14 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:14 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:14 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:15 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:15 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:17 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:17 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:19 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:26 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:30:27 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:27 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:33 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:30:35 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:35 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:36 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:37 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:37 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:38 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:38 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:38 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:30:58 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:31:29 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:31:34 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:31:34 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:31:39 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:33:13 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:33:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:33:20 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:33:22 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:33:42 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 18:33:45 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:33:45 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:33:46 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:33:59 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:34:02 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:05 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:07 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:09 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:10 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:13 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:17 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:18 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:22 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:23 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:30 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:31 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:33 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:34 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:34 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:35 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:36 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:37 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:37 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:38 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:34:39 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:35:44 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:35:47 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:35:47 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:35:49 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:35:55 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 18:35:57 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:35:57 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:35:58 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:04 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 18:36:06 INFO  FormListLibros:190 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:06 INFO  FormListLibros:190 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:07 INFO  FormListLibros:190 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:10 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:36:12 INFO  FormListDVD:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:12 INFO  FormListDVD:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:14 INFO  FormListDVD:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:18 INFO  FormListDVD:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:18 INFO  FormListDVD:179 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:24 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:36:25 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:25 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:26 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:27 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:27 INFO  FormListLibros:178 - Lectura de datos al grid con datos personalizados
+2022-11-03 18:36:38 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 18:36:41 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:36:42 INFO  FormLibros:351 - Registro seleccionado: LIB00001
+2022-11-03 18:36:45 INFO  FormLibros:424 - Registro actualizado correctamente
+2022-11-03 18:36:50 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 18:36:51 INFO  FormRevistas:489 - Datos seleccionado: REV00015
+2022-11-03 18:36:56 INFO  FormRevistas:378 - Registro actualizado correctamente
+2022-11-03 18:36:59 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:37:00 INFO  FormCds:398 - Datos seleccionado: LIB00011
+2022-11-03 18:37:04 INFO  FormCds:375 - Registro actualizado correctamente
+2022-11-03 18:37:07 INFO  FormDVD:29 - Primera lectura de datos al grid
+2022-11-03 18:37:08 INFO  FormDVD:311 - Datos seleccionado: LIB00001
+2022-11-03 18:37:11 INFO  FormDVD:289 - Registro actualizado correctamente
+2022-11-03 18:37:15 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 18:37:18 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 18:37:21 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-03 18:37:24 INFO  FormListDVD:28 - Primer lectura de datos al grid con datos personalizados
+2022-11-03 18:41:51 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:41:53 INFO  FormCds:404 - Datos seleccionado: LIB00001
+2022-11-03 18:41:53 INFO  FormCds:404 - Datos seleccionado: LIB00011
+2022-11-03 18:41:56 INFO  FormCds:381 - Registro actualizado correctamente
+2022-11-03 18:41:59 ERROR FormCds:367 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 18:42:08 ERROR FormCds:367 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 18:42:43 ERROR FormCds:367 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 18:42:55 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 18:43:01 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:43:04 ERROR FormCds:367 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 18:43:09 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:43:30 INFO  FormCds:361 - Datos guardados correctamente!
+2022-11-03 18:47:58 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:48:05 INFO  FormCds:367 - Datos guardados correctamente!
+2022-11-03 18:48:23 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:49:04 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:49:12 ERROR FormCds:373 - No se ha podido guardar el registro, por favor contactarse con el administrador 
+2022-11-03 18:49:14 INFO  FormCds:367 - Datos guardados correctamente!
+2022-11-03 18:49:36 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:49:42 INFO  FormCds:367 - Datos guardados correctamente!
+2022-11-03 18:50:06 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:51:04 INFO  FormCds:367 - Datos guardados correctamente!
+2022-11-03 18:51:26 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:51:27 INFO  FormCds:411 - Datos seleccionado: LIB00017
+2022-11-03 18:51:29 INFO  FormCds:328 - Registro a eliminar: LIB00017
+2022-11-03 18:51:29 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00017
+2022-11-03 18:54:35 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 18:54:47 INFO  FormCds:367 - Datos guardados correctamente!
+2022-11-03 18:56:13 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 19:06:33 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 19:06:37 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 19:06:38 INFO  FormCds:419 - Datos seleccionado: LIB00017
+2022-11-03 19:06:39 INFO  FormCds:328 - Registro a eliminar: LIB00017
+2022-11-03 19:06:39 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00017
+2022-11-03 19:06:42 INFO  FormCds:419 - Datos seleccionado: LIB00016
+2022-11-03 19:06:44 INFO  FormCds:328 - Registro a eliminar: LIB00016
+2022-11-03 19:06:44 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00016
+2022-11-03 19:06:46 INFO  FormCds:419 - Datos seleccionado: LIB00019
+2022-11-03 19:06:46 INFO  FormCds:419 - Datos seleccionado: LIB00020
+2022-11-03 19:06:48 INFO  FormCds:328 - Registro a eliminar: LIB00020
+2022-11-03 19:06:48 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00020
+2022-11-03 19:06:49 INFO  FormCds:419 - Datos seleccionado: LIB00019
+2022-11-03 19:06:51 INFO  FormCds:328 - Registro a eliminar: LIB00019
+2022-11-03 19:06:51 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00019
+2022-11-03 19:06:52 INFO  FormCds:419 - Datos seleccionado: LIB00015
+2022-11-03 19:06:53 INFO  FormCds:328 - Registro a eliminar: LIB00015
+2022-11-03 19:06:53 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00015
+2022-11-03 19:06:54 INFO  FormCds:419 - Datos seleccionado: LIB00014
+2022-11-03 19:06:55 INFO  FormCds:328 - Registro a eliminar: LIB00014
+2022-11-03 19:06:56 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00014
+2022-11-03 19:06:57 INFO  FormCds:419 - Datos seleccionado: LIB00013
+2022-11-03 19:06:58 INFO  FormCds:328 - Registro a eliminar: LIB00013
+2022-11-03 19:06:58 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00013
+2022-11-03 19:07:00 INFO  FormCds:419 - Datos seleccionado: LIB00012
+2022-11-03 19:07:01 INFO  FormCds:328 - Registro a eliminar: LIB00012
+2022-11-03 19:07:01 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00012
+2022-11-03 19:07:04 ERROR FormCds:362 - Error. Algun campo esta vacío
+2022-11-03 19:14:44 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 19:14:53 INFO  FormRevistas:505 - Datos seleccionado: REV00001
+2022-11-03 19:22:56 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 19:22:59 INFO  FormRevistas:505 - Datos seleccionado: REV00001
+2022-11-03 19:23:29 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 19:23:31 INFO  FormRevistas:505 - Datos seleccionado: REV00015
+2022-11-03 19:23:33 INFO  FormRevistas:505 - Datos seleccionado: REV00001
+2022-11-03 19:24:08 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 19:24:08 INFO  FormRevistas:505 - Datos seleccionado: REV00015
+2022-11-03 19:25:13 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 19:25:17 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 19:25:18 INFO  FormRevistas:505 - Datos seleccionado: REV00015
+2022-11-03 19:25:26 INFO  FormRevistas:385 - Registro actualizado correctamente
+2022-11-03 19:25:28 INFO  FormRevistas:505 - Datos seleccionado: REV00015
+2022-11-03 19:25:28 INFO  FormRevistas:505 - Datos seleccionado: REV00001
+2022-11-03 19:25:32 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 19:27:21 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 19:27:43 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 19:27:45 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:45 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:45 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:45 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:46 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:46 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:46 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:46 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:47 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:47 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:47 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:48 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:49 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:49 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:50 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:27:59 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 19:28:02 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:09 INFO  FormListRevistas:27 - Primera lectura de datos al grid
+2022-11-03 19:29:11 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:11 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:12 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:12 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:12 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:13 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:13 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:14 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:14 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:15 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:15 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:15 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:16 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:16 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:16 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:16 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:17 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:19 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:20 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:20 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:20 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:20 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:21 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:21 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:21 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:21 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:21 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:22 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:22 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:22 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:23 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:23 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:23 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:24 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:24 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:24 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:24 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:25 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:25 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:25 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:25 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:25 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:29:25 INFO  FormListRevistas:175 - Lectura de datos al grid con datos personalizados
+2022-11-03 19:30:11 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 19:30:12 INFO  FormLibros:359 - Registro seleccionado: LIB00020
+2022-11-03 19:32:21 INFO  FormLibros:30 - Primera lectura de datos al grid
+2022-11-03 19:32:22 INFO  FormLibros:359 - Registro seleccionado: LIB00020
+2022-11-03 19:32:24 INFO  FormLibros:379 - Registro a eliminar: LIB00020
+2022-11-03 19:32:24 INFO  FormLibros:383 - Eliminacion correcta del registro: LIB00020
+2022-11-03 19:32:25 INFO  FormLibros:359 - Registro seleccionado: LIB00001
+2022-11-03 19:32:27 INFO  FormLibros:379 - Registro a eliminar: LIB00001
+2022-11-03 19:32:27 INFO  FormLibros:383 - Eliminacion correcta del registro: LIB00001
+2022-11-03 19:32:31 INFO  FormRevistas:33 - Primera lectura de datos al grid
+2022-11-03 19:32:32 INFO  FormRevistas:505 - Datos seleccionado: REV00015
+2022-11-03 19:32:34 INFO  FormRevistas:473 - Registro a eliminar: REV00015
+2022-11-03 19:32:34 INFO  FormRevistas:477 - Eliminacion correcta del registro: REV00015
+2022-11-03 19:32:35 INFO  FormRevistas:505 - Datos seleccionado: REV00001
+2022-11-03 19:32:37 INFO  FormRevistas:473 - Registro a eliminar: REV00001
+2022-11-03 19:32:37 INFO  FormRevistas:477 - Eliminacion correcta del registro: REV00001
+2022-11-03 19:32:40 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 19:32:40 INFO  FormCds:419 - Datos seleccionado: LIB00001
+2022-11-03 19:32:42 INFO  FormCds:328 - Registro a eliminar: LIB00001
+2022-11-03 19:32:42 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00001
+2022-11-03 19:32:44 INFO  FormCds:419 - Datos seleccionado: LIB00011
+2022-11-03 19:32:45 INFO  FormCds:328 - Registro a eliminar: LIB00011
+2022-11-03 19:32:45 INFO  FormCds:332 - Eliminacion correcta del registro: LIB00011
+2022-11-03 19:32:48 INFO  FormDVD:30 - Primera lectura de datos al grid
+2022-11-03 19:32:49 INFO  FormDVD:320 - Datos seleccionado: LIB00007
+2022-11-03 19:32:51 INFO  FormDVD:352 - Registro a eliminar: LIB00007
+2022-11-03 19:32:51 INFO  FormDVD:356 - Eliminacion correcta del registro: LIB00007
+2022-11-03 19:32:53 INFO  FormDVD:320 - Datos seleccionado: LIB00001
+2022-11-03 19:32:54 INFO  FormDVD:352 - Registro a eliminar: LIB00001
+2022-11-03 19:32:54 INFO  FormDVD:356 - Eliminacion correcta del registro: LIB00001
+2022-11-03 19:32:57 INFO  FormCds:30 - Primera lectura de datos al grid
+2022-11-03 20:26:24 INFO  FormListLibros:27 - Primera lectura de datos al grid
+2022-11-03 20:26:44 INFO  FormListLibros:26 - Primera lectura de datos al grid
+2022-11-12 17:10:16 INFO  FormCds:30 - Primera lectura de datos al grid
